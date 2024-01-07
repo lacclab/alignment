@@ -1,2 +1,2 @@
 # alighment
-OneStop project- Alighment
+OneStop project- Alignment
