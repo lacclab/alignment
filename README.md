@@ -1,4 +1,4 @@
-# alighnment
+# alignment
 OneStop project- Alignment
 # Files Description:
 1. playground.ipynb: Code file, is used to separate the texts into paragraphs and display them.
